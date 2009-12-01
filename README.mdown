@@ -1,0 +1,5 @@
+Just some code samples.
+
+In order to protect the innocent (and myself from litigation), they have been extracted from their home projects.
+
+If you have anything to do with the projects these files have come from and wish them to be removed, please let me know.
